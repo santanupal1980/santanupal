@@ -1,4 +1,4 @@
-## Santanu Pal ![Image](images/santanuPal.jpg)
+## Santanu Pal ![Image](santanuPal.jpg)
 
 
 ### Markdown
