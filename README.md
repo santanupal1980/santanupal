@@ -1,4 +1,4 @@
-## Dr. Santanu Pal
+## Santanu Pal ![Image](images/santanuPal.jpg)
 
 
 ### Markdown
